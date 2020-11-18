@@ -4,7 +4,6 @@ public class Reset_Dialogs : MonoBehaviour
 {
 
     public Dialog_Controller _Dialog_Controller_Script;
-    public Dialog_Box _Dialog_Box_Script;
     public GameObject _Dialog_Box;
 
     // Called in User_Interaction class, after the Key F to be pressed.
