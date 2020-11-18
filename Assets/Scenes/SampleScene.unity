@@ -1191,7 +1191,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _Dialog_Controller_Script: {fileID: 1155241496}
-  _Dialog_Box: {fileID: 318418177}
+  _Dialog_Box_Script: {fileID: 1155241493}
 --- !u!114 &1155241496
 MonoBehaviour:
   m_ObjectHideFlags: 0
